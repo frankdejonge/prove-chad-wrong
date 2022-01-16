@@ -1,0 +1,17 @@
+{
+    "name": "frankdejonge/prove-chad-wrong",
+    "require": {
+        "league/flysystem": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Frankdejonge\\ProveChadWrong\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Frank de Jonge",
+            "email": "info@frankdejonge.nl"
+        }
+    ]
+}
