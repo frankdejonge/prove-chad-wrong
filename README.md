@@ -1,3 +1,5 @@
+> DISCLAIMER: this is (I hope obviously) a joke.
+
 # Chad is Wrong
 
 Chad is wrong, but he believes he is right. But the truth is that he is in fact wrong, and I'm in fact right.
