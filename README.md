@@ -21,7 +21,7 @@ is actually no "pollution" of the autoloader happening.
 ## Q/A
 
 Q: I am Chad, am I wrong?<br/>
-A: Yes, you are wrong.
+A: Yes, you are _f*cking_ wrong.
 
 Q: I am Frank, am I wrong?<br/>
-A: No, you are actually right. Chad is wrong.
+A: No, you are actually right. Chad is _f*cking_ wrong.
